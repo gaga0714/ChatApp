@@ -5,7 +5,7 @@
 
 - 演示视频已上传至`google drive`,点击链接可下载查看：[演示视频链接](https://drive.google.com/file/d/12-S3EuS5jDD0X1AgHTSwRZthKounl3m3/view?usp=share_link)
 
-- 项目产品报告见项目根目录下的[产品报告.pdf](https://github.com/gaga0714/ChatApp/产品报告.pdf)
+- 项目产品报告见项目根目录下的[产品报告.pdf](https://github.com/gaga0714/ChatApp/blob/main/产品报告.pdf)
 
 
 已有账号举例：
